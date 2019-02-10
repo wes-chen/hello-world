@@ -4,8 +4,8 @@ Not my first repository
 
 ## Haiku
 
-I love computer\\
-No computer is big sad\\
+I love computer  
+No computer is big sad  
 Technology cool
 
 # This is a new section!
